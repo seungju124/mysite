@@ -149,5 +149,3 @@ def dashboard():
                             y1_data = y1_data)
 
 
-
-app.run(debug=True)
